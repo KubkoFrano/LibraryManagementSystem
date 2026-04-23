@@ -1,0 +1,43 @@
+17-Mar-2026 21:50:47.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.52
+17-Mar-2026 21:50:47.994 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 23 2026 19:29:07 UTC
+17-Mar-2026 21:50:47.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.52.0
+17-Mar-2026 21:50:47.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Mar-2026 21:50:48.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+17-Mar-2026 21:50:48.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Mar-2026 21:50:48.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+17-Mar-2026 21:50:48.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+11-LTS-240
+17-Mar-2026 21:50:48.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+17-Mar-2026 21:50:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52
+17-Mar-2026 21:50:48.009 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52
+17-Mar-2026 21:50:48.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\conf\logging.properties
+17-Mar-2026 21:50:48.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Mar-2026 21:50:48.095 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Mar-2026 21:50:48.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Mar-2026 21:50:48.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+17-Mar-2026 21:50:48.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-Mar-2026 21:50:48.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+17-Mar-2026 21:50:48.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-Mar-2026 21:50:48.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-Mar-2026 21:50:48.106 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-Mar-2026 21:50:48.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-Mar-2026 21:50:48.110 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52
+17-Mar-2026 21:50:48.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52
+17-Mar-2026 21:50:48.113 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\temp
+17-Mar-2026 21:50:48.122 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.12] using APR version [1.7.6].
+17-Mar-2026 21:50:48.136 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.4 30 Sep 2025]
+17-Mar-2026 21:50:48.773 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Mar-2026 21:50:48.859 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1402] milliseconds
+17-Mar-2026 21:50:48.999 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Mar-2026 21:50:49.000 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.52]
+17-Mar-2026 21:50:49.034 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\docs]
+17-Mar-2026 21:50:50.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\docs] has finished in [1,038] ms
+17-Mar-2026 21:50:50.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\examples]
+17-Mar-2026 21:50:51.367 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\examples] has finished in [1,292] ms
+17-Mar-2026 21:50:51.370 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\host-manager]
+17-Mar-2026 21:50:51.482 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\host-manager] has finished in [113] ms
+17-Mar-2026 21:50:51.484 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\manager]
+17-Mar-2026 21:50:51.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\manager] has finished in [96] ms
+17-Mar-2026 21:50:51.582 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\ROOT]
+17-Mar-2026 21:50:51.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\frano\Documents\jakartaee\apache-tomcat-10.1.52-windows-x64\apache-tomcat-10.1.52\webapps\ROOT] has finished in [84] ms
+17-Mar-2026 21:50:51.679 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Mar-2026 21:50:51.783 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2922] milliseconds
