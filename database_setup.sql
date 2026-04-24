@@ -23,10 +23,10 @@ CREATE TABLE loans (
 
 
 INSERT INTO users (username, password, role) VALUES 
-('admin_user', 'admin123', 'ADMIN'),
-('library_member', 'pass123', 'MEMBER');
+('admin', 'admin', 'ADMIN'),
+('user', 'user', 'MEMBER');
 
-INSERT INTO books (title, author, is_available) VALUES 
+INSERT INTO books (title, author, available) VALUES 
 ('The Great Gatsby', 'F. Scott Fitzgerald', TRUE),
 ('1984', 'George Orwell', TRUE),
 ('The Hobbit', 'J.R.R. Tolkien', FALSE);

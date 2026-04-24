@@ -2,7 +2,7 @@
     "java.project.sourcePaths": [
         "src"
     ],
-    "java.project.outputPath": "apache-tomcat-10.1.52\\webapps\\ROOT\\WEB-INF",
+    "java.project.outputPath": "apache-tomcat-10.1.52\\webapps\\ROOT\\WEB-INF\\classes",
     "java.project.referencedLibraries": [
         "c:\\Users\\frano\\Documents\\jakartaee\\projekt\\lib\\jakarta.jakartaee-api-10.0.0.jar",
         "c:\\Users\\frano\\Documents\\jakartaee\\projekt\\lib\\mysql-connector-j-9.6.0.jar"
