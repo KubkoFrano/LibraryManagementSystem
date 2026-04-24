@@ -11,7 +11,7 @@ public class AdminServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         HttpSession session = request.getSession(false);
         if (session == null || !"ADMIN".equals(session.getAttribute("role"))) {
-            response.sendRedirect("login.html");
+            response.sendRedirect("login");
             return;
         }
 

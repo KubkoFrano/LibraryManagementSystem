@@ -12,7 +12,7 @@ public class UserServlet extends HttpServlet {
         HttpSession session = request.getSession(false);
         
         if (session == null || !"MEMBER".equals(session.getAttribute("role"))) {
-            response.sendRedirect("login.html");
+            response.sendRedirect("login");
             return;
         }
 

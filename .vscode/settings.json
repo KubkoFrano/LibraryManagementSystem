@@ -6,5 +6,6 @@
     "java.project.referencedLibraries": [
         "c:\\Users\\frano\\Documents\\jakartaee\\projekt\\lib\\jakarta.jakartaee-api-10.0.0.jar",
         "c:\\Users\\frano\\Documents\\jakartaee\\projekt\\lib\\mysql-connector-j-9.6.0.jar"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
